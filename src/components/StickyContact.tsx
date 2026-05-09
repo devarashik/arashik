@@ -13,7 +13,7 @@ export function StickyContact() {
         <MessageCircle size={22} />
       </a>
       <a
-        href="mailto:arashik2197@gmail.com"
+        href="mailto:dev.arashik@gmail.com"
         aria-label="Email"
         className="grid h-13 w-13 place-items-center rounded-full glass hover:scale-110 transition p-3"
       >

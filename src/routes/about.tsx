@@ -92,7 +92,7 @@ function About() {
               business owners across the world to deliver websites that convert.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
-              <a href="mailto:arashik2197@gmail.com" className="inline-flex items-center gap-2 rounded-xl bg-gradient-primary px-6 py-3 font-semibold text-primary-foreground shadow-glow">
+              <a href="mailto:dev.arashik@gmail.com" className="inline-flex items-center gap-2 rounded-xl bg-gradient-primary px-6 py-3 font-semibold text-primary-foreground shadow-glow">
                 Work With Me
               </a>
               <button className="inline-flex items-center gap-2 rounded-xl glass px-6 py-3 font-semibold hover:bg-secondary transition">

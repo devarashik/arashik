@@ -1,7 +1,7 @@
 import { Mail, Phone, MapPin, Linkedin, MessageCircle } from "lucide-react";
 
 const items = [
-  { icon: Mail, label: "Email", value: "arashik2197@gmail.com", href: "mailto:arashik2197@gmail.com", cta: "Send email" },
+  { icon: Mail, label: "Email", value: "dev.arashik@gmail.com", href: "mailto:dev.arashik@gmail.com", cta: "Send email" },
   { icon: MessageCircle, label: "WhatsApp", value: "+880 1303 759144", href: "https://wa.me/8801303759144", cta: "Chat now" },
   { icon: Phone, label: "Phone", value: "+880 1303 759144", href: "tel:+8801303759144", cta: "Call" },
   { icon: Linkedin, label: "LinkedIn", value: "arashik2198", href: "https://www.linkedin.com/in/arashik2198", cta: "Connect" },
