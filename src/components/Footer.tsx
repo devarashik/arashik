@@ -34,7 +34,7 @@ export function Footer() {
         <div>
           <h4 className="font-semibold mb-4">Contact</h4>
           <ul className="space-y-3 text-sm text-muted-foreground">
-            <li><a href="mailto:arashik2197@gmail.com" className="flex items-center gap-2 hover:text-foreground"><Mail size={14}/> arashik2197@gmail.com</a></li>
+            <li><a href="mailto:dev.arashik@gmail.com" className="flex items-center gap-2 hover:text-foreground"><Mail size={14}/> dev.arashik@gmail.com</a></li>
             <li><a href="https://wa.me/8801303759144" className="flex items-center gap-2 hover:text-foreground"><Phone size={14}/> +880 1303 759144</a></li>
             <li className="flex items-center gap-2"><MapPin size={14}/> Bogura, Bangladesh</li>
             <li><a href="https://www.linkedin.com/in/arashik2198" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:text-foreground"><Linkedin size={14}/> LinkedIn</a></li>

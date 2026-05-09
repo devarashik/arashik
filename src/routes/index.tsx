@@ -63,7 +63,7 @@ function Home() {
             </div>
 
             <div className="mt-10 flex flex-wrap gap-3">
-              <a href="mailto:arashik2197@gmail.com" className="inline-flex items-center gap-2 rounded-xl bg-gradient-primary px-6 py-3 font-semibold text-primary-foreground shadow-glow hover:opacity-90 transition">
+              <a href="mailto:dev.arashik@gmail.com" className="inline-flex items-center gap-2 rounded-xl bg-gradient-primary px-6 py-3 font-semibold text-primary-foreground shadow-glow hover:opacity-90 transition">
                 Hire Me <ArrowRight size={18} />
               </a>
               <Link to="/services" className="inline-flex items-center gap-2 rounded-xl glass px-6 py-3 font-semibold hover:bg-secondary transition">

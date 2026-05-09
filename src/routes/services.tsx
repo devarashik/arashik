@@ -175,7 +175,7 @@ function Services() {
               Let's turn your idea into a website that performs. Get a free quote within 24 hours.
             </p>
             <div className="mt-8 flex flex-wrap justify-center gap-3">
-              <a href="mailto:arashik2197@gmail.com" className="rounded-xl bg-gradient-primary px-7 py-3 font-semibold text-primary-foreground shadow-glow hover:opacity-90 transition">
+              <a href="mailto:dev.arashik@gmail.com" className="rounded-xl bg-gradient-primary px-7 py-3 font-semibold text-primary-foreground shadow-glow hover:opacity-90 transition">
                 Start a Project
               </a>
               <a href="https://wa.me/8801303759144" className="rounded-xl glass px-7 py-3 font-semibold hover:bg-secondary transition">

@@ -36,7 +36,7 @@ export function Navbar() {
               A
             </span>
             <span className="hidden sm:inline">
-              Ashik<span className="text-gradient">.</span>
+              A R Ashik<span className="text-gradient">.</span>
             </span>
           </Link>
 
@@ -55,7 +55,7 @@ export function Navbar() {
           </div>
 
           <a
-            href="mailto:arashik2197@gmail.com"
+            href="mailto:dev.arashik@gmail.com"
             className="hidden md:inline-flex items-center rounded-xl bg-gradient-primary px-5 py-2.5 text-sm font-semibold text-primary-foreground shadow-glow hover:opacity-90 transition"
           >
             Hire Me
@@ -83,7 +83,7 @@ export function Navbar() {
               </Link>
             ))}
             <a
-              href="mailto:arashik2197@gmail.com"
+              href="mailto:dev.arashik@gmail.com"
               className="mt-2 text-center rounded-xl bg-gradient-primary px-5 py-3 text-sm font-semibold text-primary-foreground"
             >
               Hire Me
